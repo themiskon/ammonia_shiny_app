@@ -1,0 +1,6 @@
+{
+  "command": [
+    "/bin/bash",
+    "binder/start"
+  ]
+}
