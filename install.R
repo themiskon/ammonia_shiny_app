@@ -1,5 +1,6 @@
 install.packages(c(
   "shiny",
-  "plotly",
-  "dplyr"     # add anything else you use
+  "dplyr",
+  "ggplot2",
+  "plotly"
 ))
